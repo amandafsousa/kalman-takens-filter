@@ -1,0 +1,45 @@
+## MATLAB temporary files
+
+*.asv
+*.mex*
+*.slxc
+*.autosave
+*.mdl.autosave
+*.slx.autosave
+*.slxc.autosave
+*.matlab
+*.mlproj
+
+
+## MATLAB backup files
+
+*.m~
+*~
+
+
+## Generated results (figures, data outputs)
+
+*.mat
+*.fig
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.eps
+
+
+## Logs, cache, checkpoints
+
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+
+## Project specific exclusions
+
+results/
+output/
+cache/
+tmp/
