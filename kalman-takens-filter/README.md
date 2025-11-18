@@ -115,7 +115,7 @@ SOUSA, Amanda de Figueiredo. Análise de séries temporais em sistemas de comuni
 ## Author
 
 Amanda Sousa
-amandafsousa@proton.me
+amanda@envoltoria.com
 ORCID: https://orcid.org/0009-0008-7418-3088
 Lattes: http://lattes.cnpq.br/1128157496646655
 LinkedIn: https://www.linkedin.com/in/amandadfsousa
